@@ -14,3 +14,25 @@ sessions.csv
 out/
 portfolio/projet1-tracker/**/sessions.csv
 portfolio/projet1-tracker/**/out/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Données tracker
+sessions.csv
+out/
+portfolio/projet1-tracker/**/sessions.csv
+portfolio/projet1-tracker/**/out/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Données tracker
+sessions.csv
+out/
+portfolio/projet1-tracker/**/sessions.csv
+portfolio/projet1-tracker/**/out/
