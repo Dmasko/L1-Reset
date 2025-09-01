@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Clés / secrets
+*.pem
+*.key
+id_ed25519
+id_ed25519.pub
+
+# Données tracker à ne pas pousser
+sessions.csv
+out/
+portfolio/projet1-tracker/**/sessions.csv
+portfolio/projet1-tracker/**/out/
