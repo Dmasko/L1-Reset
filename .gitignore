@@ -36,3 +36,6 @@ sessions.csv
 out/
 portfolio/projet1-tracker/**/sessions.csv
 portfolio/projet1-tracker/**/out/
+
+# Maven
+**/target/
